@@ -37,3 +37,10 @@ Better name is: `sysconf(1)`
 The default behavior of `ulimit(1)` is getting/setting file size, but it can deal with more system configurations than that.
 
 In addition to that, the prefix "u" means "user", but it only affect the current session instead of all the sessions of the user.
+
+
+## `wc(1)`
+
+Better name is: `count(1)`.
+
+`wc(1)` stands for "word count", but it can count words, newlines, bytes, etc.
