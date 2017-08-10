@@ -44,3 +44,10 @@ In addition to that, the prefix "u" means "user", but it only affect the current
 Better name is: `count(1)`.
 
 `wc(1)` stands for "word count", but it can count words, newlines, bytes, etc.
+
+
+## `atoi(3)`
+
+Better name is: `str2int(3)`.
+
+If `atoi(3)` was named `str2int(3)`, this [StackOverflow question](https://stackoverflow.com/questions/2909768/where-did-the-name-atoi-come-from) won't exist.
