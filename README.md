@@ -28,3 +28,12 @@ Just like `/etc/group` contains a list of groups, a file that contains a list of
 Better name is: `netdump(1)`.
 
 It can dump more protocols than TCP.
+
+
+## `ulimit(1)`
+
+Better name is: `sysconf(1)`
+
+The default behavior of `ulimit(1)` is getting/setting file size, but it can deal with more system configurations than that.
+
+In addition to that, the prefix "u" means "user", but it only affect the current session instead of all the sessions of the user.
