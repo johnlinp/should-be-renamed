@@ -51,3 +51,10 @@ Better name is: `count(1)`.
 Better name is: `str2int(3)`.
 
 If `atoi(3)` was named `str2int(3)`, this [StackOverflow question](https://stackoverflow.com/questions/2909768/where-did-the-name-atoi-come-from) won't exist.
+
+
+## `/etc/exports`
+
+Better name is: `/etc/nfs.exports`.
+
+It's not clear that `/etc/exports` belongs to NFS unless you check out `man 5 exports`.
