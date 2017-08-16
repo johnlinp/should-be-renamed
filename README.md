@@ -58,3 +58,16 @@ If `atoi(3)` was named `str2int(3)`, this [StackOverflow question](https://stack
 Better name is: `/etc/nfs.exports`.
 
 It's not clear that `/etc/exports` belongs to NFS unless you check out `man 5 exports`.
+
+
+## `top(1)`
+
+Better name is: `proc(1)`
+
+`top(1)` can display the processes information with the top usage of CPU/Memory. However, the name "top" is unclear because it can be interpreted as "top files in a filesystem", "top network transfer" or anything.
+
+Furthermore, if you press "R" key in `top(1)`, it reverse the sorting order and make it `bottom(1)` :P
+
+Therefore, `proc(1)` is clearer because it does nothing more than displaying process information.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_%28software%29) says "top" is short for "Table Of Process". But I don't think that is the original design.
