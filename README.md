@@ -1,6 +1,10 @@
-# Should Have Named
+# Should Be Renamed
 
-This is a list of Linux related functions/tools/files that are badly named.
+This is a list of Linux related functions/commands/files/projects that are badly named.
+
+Usually, the names were good at that time, but outdated nowadays.
+
+I am not intended to *actually* rename those things since the names have historical reasons. I am just trying to share some ideas to help Linux newbies who are confused about these wierd names.
 
 Pull requests are welcome.
 
@@ -20,7 +24,7 @@ Better name is: `/etc/user`.
 
 There are no passwords in `/etc/passwd` nowadays. The passwords are in `/etc/shadow`.
 
-Just like `/etc/group` contains a list of groups, a file that contains a list of users should be named `/etc/user`.
+Just like `/etc/group` contains a list of groups, a file that contains a list of users should be renamed to `/etc/user`.
 
 
 ## `tcpdump(1)`
