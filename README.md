@@ -71,3 +71,10 @@ Furthermore, if you press "R" key in `top(1)`, it reverse the sorting order and 
 Therefore, `proc(1)` is clearer because it does nothing more than displaying process information.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Top_%28software%29) says "top" is short for "Table Of Process". But I don't think that is the original design.
+
+
+## `D-Bus`
+
+Better name is: `M-Bus`
+
+The "D" in "D-Bus" stands for "Desktop". However, the communication (IPC and RPC) is not limited to desktop anymore. It can be renamed to "M-Bus" where "M" stands for "Message".
