@@ -82,3 +82,10 @@ Therefore, `proc(1)` is clearer because it does nothing more than displaying pro
 Better name is: `M-Bus`
 
 The "D" in "D-Bus" stands for "Desktop". However, the communication (IPC and RPC) is not limited to desktop anymore. It can be renamed to "M-Bus" where "M" stands for "Message".
+
+
+## `/etc`
+
+Better name is: `/cfg`.
+
+It's a directory for host-specific configuration files. Why not just call it `/cfg`?
