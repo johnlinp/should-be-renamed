@@ -89,3 +89,10 @@ The "D" in "D-Bus" stands for "Desktop". However, the communication (IPC and RPC
 Better name is: `/cfg`.
 
 It's a directory for host-specific configuration files. Why not just call it `/cfg`?
+
+
+## `cancel(1)`
+
+Better name is: `cupscancel(1)`.
+
+The program name seems like it can cancel anything. In fact, it can only be used to cancel printer jobs.
