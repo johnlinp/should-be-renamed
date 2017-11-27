@@ -96,3 +96,12 @@ It's a directory for host-specific configuration files. Why not just call it `/c
 Better name is: `cupscancel(1)`.
 
 The program name seems like it can cancel anything. In fact, it can only be used to cancel printer jobs.
+
+
+## `dd(1)`
+
+Better name is: `cc(1)`.
+
+The man page says: "Convert and copy a file". Since it **C**onvert and **C**opy a file, why not just name it `cc`?
+
+[The Jargon File](http://www.catb.org/jargon/html/D/dd.html) says `dd` stands for "Dataset Definition", but I think it's not very comprehensive for what `dd(1)` actually does.
